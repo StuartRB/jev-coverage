@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: jev-coverage
+
+jev:
+  url: https://api.typesafe.ai
+  path: /v1/systemone
+  api-key:
